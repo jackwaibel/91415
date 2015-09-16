@@ -8,3 +8,11 @@
   width: 250px;
   float:left;
 }
+
+
+.my-class {
+    border: 2px solid purple;
+    padding: 4px;
+    margin: 12px;
+    background-color: gray;
+}
