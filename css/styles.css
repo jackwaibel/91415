@@ -14,3 +14,16 @@ p.author {
     color: red;
 
 }
+
+.flashy {
+font-style: italic;
+font-weight: bold;
+color: red;
+
+}
+
+.best {
+  color: green;
+  font-weight: bolder;
+  
+}
